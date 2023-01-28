@@ -48,7 +48,8 @@ httpd.serve_forever()
 
 ## CLIENTOUTPUT
 
-![CLIENTOUTPUT](./image/client output.png)
+![image](https://user-images.githubusercontent.com/120731469/215271972-0f5161d7-6694-441b-ab40-fa3bde6f0efc.png)
+
 
 ## RESULT:
 
